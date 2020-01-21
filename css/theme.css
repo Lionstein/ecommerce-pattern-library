@@ -1,0 +1,13 @@
+:root {
+  --color-primary: red;
+  --color-primary-light: yellow;
+  --color-secondary: blue;
+  --color-background: #E3E3E3;
+
+  --font-primary: proxima-nova, sans-serif;
+  --font-secondary: adobe-caslon-pro, serif;
+}
+
+html {
+  font-family: var(--font-primary);
+}
