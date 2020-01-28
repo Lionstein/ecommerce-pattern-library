@@ -1,11 +1,12 @@
 :root {
-  --color-primary: red;
-  --color-primary-light: yellow;
-  --color-secondary: blue;
+  --color-primary: #000DBF;
+  --color-primary-light: #D9D50B;
+  --color-primary-dark: #000000;
+  --color-secondary: #C20800;
   --color-background: #E3E3E3;
 
-  --font-primary: proxima-nova, sans-serif;
-  --font-secondary: adobe-caslon-pro, serif;
+  --font-primary: adobe-caslon-pro, serif;
+  --font-secondary: proxima-nova, sans-serif;
 }
 
 html {

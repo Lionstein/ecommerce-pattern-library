@@ -3,3 +3,14 @@ theme: jekyll_patternbot
 
 patternbot:
   font_url: "https://use.typekit.net/wnf4jlb.css"
+  title: "Gundam Build"
+  description: A small independant company striving to make Gundam kits easily available for anyone, regardless of country or language.
+  rationales:
+    typefaces.primary: Adobe Caslon was chosen because of its good compatibility with the accompanying sans-serif font.
+    typefaces.secondary: Proxima Nova was chosen because of its wide variety of stroke weights, to work with different screen sizes.
+    colors.primary: Blue is the primary colour because it is the least intrusive of the three Gundam brand colours.
+    colors.secondary: Red is the secondary colour, only for highlights and accompanying the primary colour to match the logo.
+    colors.primary.light: Yellow is the light colour, only for rare occasions, usually buttons or other attention grabbing website locations.
+  colors:
+    background: "--color-background"
+    accent: "--color-primary"
