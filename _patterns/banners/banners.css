@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: var(--color-background);
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: var(--color-primary);
+  color: var(--color-background);
+}
+
+li {
+  display: inline-block;
+}
+
+nav {
+  margin: 0;
+  text-align: center;
+  color: var(--color-primary);
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+@media only screen and (min-width: 38em) {
+
+  h1 {
+    text-align: left;
+  }
+
+  nav {
+    text-align: right;
+  }
+
+}
