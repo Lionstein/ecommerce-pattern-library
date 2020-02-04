@@ -1,0 +1,29 @@
+.font {
+  font-family: var(--font-secondary);
+}
+
+.is-validated input:invalid,
+.is-validated input[type="checkbox"]:invalid + label::before,
+.is-validated:invalid,
+.is-validated[type="checkbox"]:invalid + label::before {
+  border-color: var(--color-secondary);
+}
+
+.error-message {
+  display: none;
+  background-color: #fee;
+  color: var(--color-secondary);
+}
+
+.error-message-highlighted {
+  background-color: var(--color-secondary);
+  color: #fff;
+}
+
+.is-validated > .error-message:first-child,
+.is-validated input:invalid + .error-message,
+.is-validated input:invalid + label + .error-message,
+.is-validated:invalid + .error-message,
+.is-validated:invalid + label + .error-message {
+  display: block;
+}
