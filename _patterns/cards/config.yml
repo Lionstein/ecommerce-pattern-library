@@ -1,0 +1,9 @@
+title: "Cards"
+description:
+  Banners should be used as the primary header and footer for the website. They can also act as promotional content, secondary navigation, and drop-downs.
+
+patterns:
+  sellingcard:
+    title: "card"
+    description:
+      Meant to work in a grid system with other cards, this card when combined with buttons, will lead users to the specific product page.

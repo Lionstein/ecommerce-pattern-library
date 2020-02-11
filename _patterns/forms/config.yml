@@ -1,0 +1,25 @@
+title: "Forms"
+description:
+  Forms are used when more personal information is needed or requested from the users. Whether they're buying, selling, answering questions, or applying for offers, forms are used.
+
+patterns:
+  checkbox:
+    title: "Checkbox"
+    description:
+      Not common, only really used for basic yes or no questions. Placed at the bottom of forms, or in clusters.
+  dropdown:
+    title: "Dropdown"
+    description:
+      Specifies what the user is searching for in terms of product quality and complexity. Helps narrow down searches.
+  emails:
+    title: "Emails"
+    description:
+      Built to only accept properly formatted emails in the payment or signup sections.
+  name:
+    title: "Names"
+    description:
+      A small textbox just for names, given importance over the full sized text box.
+  text:
+    title: "Text"
+    description:
+      For any other information, such as complaints or orders.

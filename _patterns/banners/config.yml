@@ -1,0 +1,15 @@
+title: "Banners"
+description:
+  Banners should be used as the primary header and footer for the website. They can also act as promotional content, secondary navigation, and drop-downs.
+
+patterns:
+  carousel:
+    title: "Carousel"
+    description:
+      The rotating pictures each link to the specific cards page with the associated product.
+    background: "--color-background"
+  top-banner:
+    title: "Top banner"
+    description:
+      The top banner is the main navigation bar for the website, and will always be present. It will also serve as backwards and forwards navigation.
+    background: "--color-background"
