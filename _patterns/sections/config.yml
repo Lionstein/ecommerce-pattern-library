@@ -1,0 +1,9 @@
+title: "Sections"
+description:
+  For specific product pages, or large and complicated blocks of information that can't be squished into a card, sections are used.
+
+patterns:
+  buypage:
+    title: "Buy Page"
+    description:
+      After clicking one of the stacked cards in the browse area, you'll be brought to the specific product page, with all the information and button to bring you to the buy section

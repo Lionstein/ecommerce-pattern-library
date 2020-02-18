@@ -1,0 +1,17 @@
+.font1 {
+  font-family: var(--font-primary);
+}
+
+.font2 {
+  font-family: var(--font-secondary);
+}
+
+.font3 {
+  font-family: var(--font-secondary);
+  font-weight: 100;
+}
+
+.font4 {
+  font-family: var(--font-secondary);
+  font-weight: 400;
+}
