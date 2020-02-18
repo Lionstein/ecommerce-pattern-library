@@ -40,10 +40,15 @@ ul {
   display: none;
 }
 
+.c {
+  background-color: var(--color-background);
+}
+
 #unicorn-control:checked ~ .carousel-inner #unicorn,
 #strike-control:checked ~ .carousel-inner #strike,
 #freedom-control:checked ~ .carousel-inner #freedom,
 #zeta-control:checked ~ .carousel-inner #zeta {
+  display: block;
 }
 
 .carousel-btn {
@@ -58,7 +63,7 @@ ul {
   background-color: var(--color-secondary);
 }
 
-@media only screen and (min-width: 38em) {
+@media only screen and (min-width: 60em) {
 
   h1 {
     text-align: left;

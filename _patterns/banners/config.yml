@@ -13,3 +13,8 @@ patterns:
     description:
       The top banner is the main navigation bar for the website, and will always be present. It will also serve as backwards and forwards navigation.
     background: "--color-background"
+  footer:
+    title: "Footer"
+    description:
+      The footer displays the copyright and not as important information, with space for social media icons eventually.
+    background: "--color-background"
