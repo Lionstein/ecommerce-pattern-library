@@ -27,3 +27,12 @@
 .is-validated:invalid + label + .error-message {
   display: block;
 }
+
+input[type=search], select, textarea {
+  padding: 1.15em;
+}
+
+.search-btn {
+  width:100%;
+  border-radius: 0;
+}

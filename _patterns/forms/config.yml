@@ -23,3 +23,7 @@ patterns:
     title: "Text"
     description:
       For any other information, such as complaints or orders.
+  search:
+    title: "Search"
+    description:
+      For product and information search.

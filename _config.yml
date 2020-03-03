@@ -14,3 +14,6 @@ patternbot:
   colors:
     background: "--color-background"
     accent: "--color-primary"
+  layouts:
+    default:
+      The default layout should be used for almost every page, it includes the sites header and footer
