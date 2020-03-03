@@ -5,6 +5,7 @@ body {
 header {
   background-color: var(--color-background);
   margin: 0;
+  position: sticky;
 }
 
 h1 {
@@ -42,6 +43,7 @@ ul {
 
 .c {
   background-color: var(--color-background);
+  position: sticky;
 }
 
 #unicorn-control:checked ~ .carousel-inner #unicorn,

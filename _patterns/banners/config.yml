@@ -8,10 +8,10 @@ patterns:
     description:
       The rotating pictures each link to the specific cards page with the associated product.
     background: "--color-background"
-  top-banner:
-    title: "Top banner"
+  header:
+    title: "Header"
     description:
-      The top banner is the main navigation bar for the website, and will always be present. It will also serve as backwards and forwards navigation.
+      The header is the main navigation bar for the website, and will always be present. It will also serve as backwards and forwards navigation.
     background: "--color-background"
   footer:
     title: "Footer"
