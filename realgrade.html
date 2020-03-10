@@ -2,4 +2,8 @@
 layout: default
 ---
 
-<h1>Real Grade!</h1>
+<div class="grid grid-stretch card island-1-4">
+{% for product in site.products %}
+{% pattern cards/sellingcard data=product %}
+{% endfor %}
+</div>

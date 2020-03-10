@@ -7,4 +7,4 @@ setInterval(()=>{
   } else {
     $('.carousel .carousel-input:first-child').attr('checked', true);
   }
-}, 2000);
+}, 4000);

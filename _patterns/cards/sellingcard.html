@@ -1,6 +1,8 @@
-<div class="card">
-  <img class="img-flex push" src="/images/GundamUndusted.png" alt="">
-  <h2 class="header nina">GAT-X105 Aile Strike Gundam</h2>
-  <p>The Strike Gundam is the most versatile of the five Gundams in the Earth Alliance's G Project and can be easily configured for various types of combat.</p>
-  {% pattern buttons/basic %}
-</div>
+    <li class="unit unit-content-distribute xs-1 m-1-2 l-1-2 island-1-4 push-1-2">
+      <div class="card island-1-2 content-fill unit-content-distribute">
+        <img class="img-flex push" src="/images/{{include.data.card-image}}" alt="">
+        <h2 class="header push-none pad-t-1-2 pad-b-1-2 nina">{{include.data.name}}</h2>
+        <p class="content-fill push-none pad-b-1-2">{{include.data.short-description}}</p>
+        {% pattern buttons/light text="See More" url=include.data.url %}
+      </div>
+    </li>
