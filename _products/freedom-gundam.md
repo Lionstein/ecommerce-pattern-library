@@ -1,6 +1,6 @@
 ---
 name: ZGMF-X10A Freedom Gundam
-img: carousel2.jpg
+img: carousel3.jpg
 figcaption: ZGMF-X10A Freedom Gundam
 pilot: Pilot - Kira Yamato
 description:
@@ -16,7 +16,7 @@ power-source: Ultracompact Nuclear Fission Reactor
 generator-output: 8826 kW
 armour-material: Phase-Shift Armor
 
-card-image: GundamUndusted.png
+card-image: FreedomCard.jpg
 short-description:
   The suit has full flight capabilities in the atmosphere and the back-mounted wings can be deployed in "High Mobility Aerial Tactics (HiMAT) Mode" to enhance its mobility in the atmosphere or in space.
 ---
