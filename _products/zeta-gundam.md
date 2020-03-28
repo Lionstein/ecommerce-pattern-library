@@ -15,7 +15,7 @@ power-source: Minovsky Ultracompact Fusion Reactor
 generator-output: 2020 kW
 armour-material: Gundarium γ Alloy
 
-card-image: UnicornCard.jpg
+card-image: ZetaCard.jpg
 short-description:
   The main feature of the Zeta Gundam is its ability to instantly transform into a streamlined Waverider mode, which can fly at high speed in space as well as in the atmosphere.
 ---
